@@ -20,8 +20,6 @@ Users can browse products, add them to a cart, and simulate checkout — all fro
 
 1. Clone the repo
 2. Update the database connection string
-3. Run `dotnet run` from the project directory
-
----
-
-Made with ❤️ for learning and practice.
+3. add-migration to create DB
+4. add some Product Manually
+5. Run `dotnet run` from the project directory
